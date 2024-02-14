@@ -1,0 +1,6 @@
+__pycache__/
+
+src/backup.py
+src/constant.py
+data/usuarios_frieren.txt
+temp/*
